@@ -60,6 +60,15 @@ a:hover{
   margin-left: 20px;
 }
 
+.about{
+  background-color: #6E4372;
+  height: max-content;
+}
+.about p{
+  color: #F2DAF4;
+  margin-left: 20px;
+}
+
 .social{
   margin-top: 50px;
   float: right;
