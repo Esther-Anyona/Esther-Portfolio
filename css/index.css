@@ -69,6 +69,15 @@ a:hover{
   margin-left: 20px;
 }
 
+button{
+  background-color: #F2DAF4;
+  width: 100px;
+  height: 25px;
+  border: none;
+  margin-left: 30px;
+  border-radius: 50px;
+}
+
 .social{
   margin-top: 50px;
   float: right;
