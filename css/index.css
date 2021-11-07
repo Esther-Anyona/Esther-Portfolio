@@ -111,6 +111,7 @@ button{
 
 .social li{
   display: block;
+  padding: 5px;
 }
 
 .copyright{
@@ -118,4 +119,13 @@ button{
   border: 1px solid rgb(110,67,114,0.4);
   display: flex;
   justify-content: center;
+}
+.copyright p{
+  color: black;
+  font-size: 10px;
+}
+
+.main, .project, .about, .contact, .copyright{
+  border: 3px ridge #6E4372;
+  border-radius: 50px;
 }
