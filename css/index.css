@@ -76,8 +76,25 @@ button{
   border: none;
   margin-left: 30px;
   border-radius: 50px;
+  margin-bottom: 20px;
 }
 
+.contact{
+  display: flex;
+  justify-content: space-between;
+  background-color: #F2DAF4;
+
+}
+
+.contact h1{
+  margin-left: 700px;
+}
+
+.location{
+  position: relative;
+  float: left;
+  margin-left: 50px;
+}
 .social{
   margin-top: 50px;
   float: right;
@@ -85,6 +102,15 @@ button{
 .social img{
   width: 30px;
   height: 30px;
+}
+
+.social a{
+  color: #000;
+  font-size: 15px;
+}
+
+.social li{
+  display: block;
 }
 
 .copyright{
