@@ -5,6 +5,13 @@ body{
   border-radius: 25px;
 }
 
+h1, h2, h3{
+  color: rgb(7,7,136);
+  text-decoration: underline;
+  font-weight: bolder;
+  font-style: oblique;
+  margin-left: 20px;
+}
 .main{
   background-color: #6E4372;
 }
@@ -32,3 +39,16 @@ body{
   border-radius: 50%;
 }
 
+a:hover{
+  color: blue;
+}
+
+.project{
+  background-color: #F2DAF4;
+  height: max-content;
+}
+
+.project p{
+  color: #6E4372;
+  margin-left: 20px;
+}
