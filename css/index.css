@@ -60,6 +60,10 @@ a:hover{
   margin-left: 20px;
 }
 
+.social{
+  margin-top: 50px;
+  float: right;
+}
 .social img{
   width: 30px;
   height: 30px;
