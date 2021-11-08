@@ -87,7 +87,8 @@ button{
 }
 
 .contact h1{
-  margin-left: 700px;
+  /* margin-left: 700px; */
+  text-align: center;
 }
 
 .location{
@@ -123,6 +124,13 @@ button{
 .copyright p{
   color: black;
   font-size: 10px;
+}
+
+.google{
+  display: flex;
+  justify-content: center;
+  margin-top: 50px;
+  
 }
 
 .main, .project, .about, .contact, .copyright{
