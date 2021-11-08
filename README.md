@@ -1,7 +1,7 @@
 ## Portfolio
 #### Author: Esther Kemunto Anyona
 
-![Esther](/assets/portfolio_bg.jpg)
+![Esther](/assets/Esther_Portfolio.png)
 
 ### This is my Independent Project for Week 1 in Prep
 ## Table of Contents
