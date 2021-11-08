@@ -64,6 +64,7 @@ a:hover{
   background-color: #6E4372;
   height: max-content;
 }
+
 .about p{
   color: #F2DAF4;
   margin-left: 20px;
@@ -83,11 +84,9 @@ button{
   display: flex;
   justify-content: space-between;
   background-color: #F2DAF4;
-
 }
 
 .contact h1{
-  /* margin-left: 700px; */
   text-align: center;
 }
 
@@ -96,10 +95,12 @@ button{
   float: left;
   margin-left: 50px;
 }
+
 .social{
   margin-top: 50px;
   float: right;
 }
+
 .social img{
   width: 30px;
   height: 30px;
@@ -114,13 +115,13 @@ button{
   display: block;
   padding: 5px;
 }
-
 .copyright{
   background-color: #6E4372;
   border: 1px solid rgb(110,67,114,0.4);
   display: flex;
   justify-content: center;
 }
+
 .copyright p{
   color: black;
   font-size: 10px;
@@ -130,7 +131,6 @@ button{
   display: flex;
   justify-content: center;
   margin-top: 50px;
-  
 }
 
 .main, .project, .about, .contact, .copyright{
